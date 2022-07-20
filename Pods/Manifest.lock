@@ -1,0 +1,16 @@
+PODS:
+  - YRPayment (1.4)
+
+DEPENDENCIES:
+  - YRPayment
+
+SPEC REPOS:
+  trunk:
+    - YRPayment
+
+SPEC CHECKSUMS:
+  YRPayment: 0f4c2caf631e974be21f702bf725d05ac7f96546
+
+PODFILE CHECKSUM: 30d373ae73eedeedf8be0aa629ef2a19683ed735
+
+COCOAPODS: 1.11.3
